@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## **💻 Core Stack: Go, Java. Mainly focused on Backend & DevOps.**
 
 # 📊 GitHub Stats:
