@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Core Stack: Go, Java. Mainly focused on Backend & DevOps.
+## **💻 Core Stack: Go, Java. Mainly focused on Backend & DevOps.**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=9anchik&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
